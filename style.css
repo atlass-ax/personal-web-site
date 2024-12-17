@@ -95,6 +95,11 @@ a {
     margin: 25px 0 8px 0;
 }
 
+.social_network img {
+    width: 50px;
+    height: 50px;
+}
+
 .social_network a:not(:last-child){ /* :not(:last-child) - delete styles for last element */
     padding-right: 15px;
 }
